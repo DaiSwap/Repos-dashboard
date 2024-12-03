@@ -11,3 +11,6 @@ Fetch and display data dynamically in a React application.
 Visualize data with charts using Chart.js.
 Understand how to structure a full-stack application.
 This project helps me understand the fundamentals of web development and provides practical experience in building and deploying an application that integrates both frontend and backend technologies.
+
+![Demo](demo.png)
+
